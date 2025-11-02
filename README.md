@@ -233,105 +233,105 @@ struct Project {
 
 - 管理员界面：创建赛事、查看所有赛事、结算赛事:
 
-  <img src="/Users/jzqin/ZJU/Courses/区块链与数字货币/hw2/ZJU-blockchain-course-2025/assets/image-20251102171733189.png" alt="image-20251102171733189" style="zoom:47%;" />
+  <img src="assets/image-20251102171733189.png" alt="image-20251102171733189" style="zoom:47%;" />
 
 - 用户界面：查看进行中的赛事、下注购买、管理我的票、二级市场交易:
 
-  <img src="/Users/jzqin/ZJU/Courses/区块链与数字货币/hw2/ZJU-blockchain-course-2025/assets/image-20251102171759805.png" alt="image-20251102171759805" style="zoom:47%;" />
+  <img src="assets/image-20251102171759805.png" alt="image-20251102171759805" style="zoom:47%;" />
 
-  <img src="/Users/jzqin/ZJU/Courses/区块链与数字货币/hw2/ZJU-blockchain-course-2025/assets/image-20251102171811972.png" alt="image-20251102171811972" style="zoom:47%;" />
+  <img src="assets/image-20251102171811972.png" alt="image-20251102171811972" style="zoom:47%;" />
 
 ## 效果功能展示
 
 1. **初始状态 - F1 竞猜市场首页**
 
-   <img src="/Users/jzqin/ZJU/Courses/区块链与数字货币/hw2/ZJU-blockchain-course-2025/assets/image-20251102171917641.png" alt="image-20251102171917641" style="zoom:47%;" />
+   <img src="assets/image-20251102171917641.png" alt="image-20251102171917641" style="zoom:47%;" />
 
 2. **管理员界面 - 创建 F1 赛事**
 
-   <img src="/Users/jzqin/ZJU/Courses/区块链与数字货币/hw2/ZJU-blockchain-course-2025/assets/image-20251102172005134.png" alt="image-20251102172005134" style="zoom:47%;" />
+   <img src="assets/image-20251102172005134.png" alt="image-20251102172005134" style="zoom:47%;" />
 
    - 输入赛事名称、输入选项、设置开奖时间和奖池金额：
 
-     <img src="/Users/jzqin/ZJU/Courses/区块链与数字货币/hw2/ZJU-blockchain-course-2025/assets/image-20251102172204385.png" alt="image-20251102172204385" style="zoom:47%;" />
+     <img src="assets/image-20251102172204385.png" alt="image-20251102172204385" style="zoom:47%;" />
 
    - MetaMask 交易确认弹窗：
 
-     <img src="/Users/jzqin/ZJU/Courses/区块链与数字货币/hw2/ZJU-blockchain-course-2025/assets/image-20251102172240665.png" alt="image-20251102172240665" style="zoom:30%;" />
+     <img src="assets/image-20251102172240665.png" alt="image-20251102172240665" style="zoom:30%;" />
 
    - 项目创建成功：
 
-     <img src="/Users/jzqin/ZJU/Courses/区块链与数字货币/hw2/ZJU-blockchain-course-2025/assets/image-20251102172355414.png" alt="image-20251102172355414" style="zoom:67%;" />
+     <img src="assets/image-20251102172355414.png" alt="image-20251102172355414" style="zoom:67%;" />
 
 3. **用户界面 - 下注购买**
    - F1 赛事列表展示：
 
-     <img src="/Users/jzqin/ZJU/Courses/区块链与数字货币/hw2/ZJU-blockchain-course-2025/assets/image-20251102172430608.png" alt="image-20251102172430608" style="zoom:50%;" />
+     <img src="assets/image-20251102172430608.png" alt="image-20251102172430608" style="zoom:50%;" />
 
    - 选择支持的选项（车手/车队）和购买金额，MetaMask 授权和交易确认：
 
-     <img src="/Users/jzqin/ZJU/Courses/区块链与数字货币/hw2/ZJU-blockchain-course-2025/assets/image-20251102172516996.png" alt="image-20251102172516996" style="zoom:57%;" />
+     <img src="assets/image-20251102172516996.png" alt="image-20251102172516996" style="zoom:57%;" />
 
    - 购买成功，NFT 显示在"我的 F1 彩票"中
 
-     <img src="/Users/jzqin/ZJU/Courses/区块链与数字货币/hw2/ZJU-blockchain-course-2025/assets/image-20251102172557411.png" alt="image-20251102172557411" style="zoom:33%;" />
+     <img src="assets/image-20251102172557411.png" alt="image-20251102172557411" style="zoom:33%;" />
 
 4. **二级市场 - 挂单**
    - "我的 F1 彩票"列表、输入挂单价格、MetaMask 授权 NFT 和挂单交易确认：
 
-     <img src="/Users/jzqin/ZJU/Courses/区块链与数字货币/hw2/ZJU-blockchain-course-2025/assets/image-20251102172721590.png" alt="image-20251102172721590" style="zoom:33%;" />
+     <img src="assets/image-20251102172721590.png" alt="image-20251102172721590" style="zoom:33%;" />
 
    - 挂单出现在订单簿中：
 
-     <img src="/Users/jzqin/ZJU/Courses/区块链与数字货币/hw2/ZJU-blockchain-course-2025/assets/image-20251102172734069.png" alt="image-20251102172734069" style="zoom:50%;" />
+     <img src="assets/image-20251102172734069.png" alt="image-20251102172734069" style="zoom:50%;" />
 
 5. **订单簿展示**
    - 订单簿分组显示、显示最低价和挂单数量
 
    - 相同彩票多个挂单：
 
-     <img src="/Users/jzqin/ZJU/Courses/区块链与数字货币/hw2/ZJU-blockchain-course-2025/assets/image-20251102173127009.png" alt="image-20251102173127009" style="zoom:50%;" />
+     <img src="assets/image-20251102173127009.png" alt="image-20251102173127009" style="zoom:50%;" />
 
    - 多个不同选项的挂单：
 
-     <img src="/Users/jzqin/ZJU/Courses/区块链与数字货币/hw2/ZJU-blockchain-course-2025/assets/image-20251102173228050.png" alt="image-20251102173228050" style="zoom:50%;" />
+     <img src="assets/image-20251102173228050.png" alt="image-20251102173228050" style="zoom:50%;" />
 
 6. **购买挂单**
 
    - 从订单簿点击"以最优价买入",MetaMask 授权 ERC20 和购买交易确认
 
-     <img src="/Users/jzqin/ZJU/Courses/区块链与数字货币/hw2/ZJU-blockchain-course-2025/assets/image-20251102173518414.png" alt="image-20251102173518414" style="zoom:50%;" />
+     <img src="assets/image-20251102173518414.png" alt="image-20251102173518414" style="zoom:50%;" />
 
    - 购买成功后 NFT 转移到新账户:
 
-     <img src="/Users/jzqin/ZJU/Courses/区块链与数字货币/hw2/ZJU-blockchain-course-2025/assets/image-20251102173546202.png" alt="image-20251102173546202" style="zoom:50%;" />
+     <img src="assets/image-20251102173546202.png" alt="image-20251102173546202" style="zoom:50%;" />
 
    - 原账户的彩票：
 
-     <img src="/Users/jzqin/ZJU/Courses/区块链与数字货币/hw2/ZJU-blockchain-course-2025/assets/image-20251102173618866.png" alt="image-20251102173618866" style="zoom:50%;" />
+     <img src="assets/image-20251102173618866.png" alt="image-20251102173618866" style="zoom:50%;" />
 
 7. **结算赛事**
    - 管理员界面中的"🏁 开奖"按钮、选择最终答案选项（获胜车手/车队）、结算交易确认：
 
-     <img src="/Users/jzqin/ZJU/Courses/区块链与数字货币/hw2/ZJU-blockchain-course-2025/assets/image-20251102173650571.png" alt="image-20251102173650571" style="zoom:33%;" />
+     <img src="assets/image-20251102173650571.png" alt="image-20251102173650571" style="zoom:33%;" />
 
    - 赛事状态变为"已开奖"：
 
-     <img src="/Users/jzqin/ZJU/Courses/区块链与数字货币/hw2/ZJU-blockchain-course-2025/assets/image-20251102173714027.png" alt="image-20251102173714027" style="zoom:43%;" />
+     <img src="assets/image-20251102173714027.png" alt="image-20251102173714027" style="zoom:43%;" />
 
 8. **领取奖金**
 
    - 彩票详情（中奖与未中奖）：
 
-     <img src="/Users/jzqin/ZJU/Courses/区块链与数字货币/hw2/ZJU-blockchain-course-2025/assets/image-20251102173807777.png" alt="image-20251102173807777" style="zoom:50%;" />
+     <img src="assets/image-20251102173807777.png" alt="image-20251102173807777" style="zoom:50%;" />
 
    - 中奖彩票显示"🏆 中奖"状态"、🏆 立即领奖"按钮、MetaMask 交易确认：
 
-     <img src="/Users/jzqin/ZJU/Courses/区块链与数字货币/hw2/ZJU-blockchain-course-2025/assets/image-20251102173834317.png" alt="image-20251102173834317" style="zoom:50%;" />
+     <img src="assets/image-20251102173834317.png" alt="image-20251102173834317" style="zoom:50%;" />
 
    - 领取成功后 ZJUP 余额增加：
 
-     <img src="/Users/jzqin/ZJU/Courses/区块链与数字货币/hw2/ZJU-blockchain-course-2025/assets/image-20251102173857145.png" alt="image-20251102173857145" style="zoom:50%;" />
+     <img src="assets/image-20251102173857145.png" alt="image-20251102173857145" style="zoom:50%;" />
 
 ## 测试
 
@@ -346,7 +346,7 @@ npx hardhat test
 - `test/formula1.test.js`: 基础功能测试
 - `test/formula1-book.test.js`: 订单簿和二级市场测试
 
-<img src="/Users/jzqin/ZJU/Courses/区块链与数字货币/hw2/ZJU-blockchain-course-2025/assets/image-20251102174344217.png" alt="image-20251102174344217" style="zoom:50%;" />
+<img src="assets/image-20251102174344217.png" alt="image-20251102174344217" style="zoom:50%;" />
 
 ## 项目结构
 
